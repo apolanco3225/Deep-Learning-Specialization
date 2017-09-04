@@ -1,4 +1,4 @@
-# Deep-Learning-Specialization
+# Deep Learning Specialization
 
 If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
 
